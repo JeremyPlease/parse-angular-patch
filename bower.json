@@ -1,12 +1,12 @@
 {
-  "name": "parse-angular-patch",
+  "name": "parse-angular-patch-2",
   "version": "0.1.2",
-  "homepage": "https://github.com/brandid/parse-angular-patch",
+  "homepage": "https://github.com/JeremyPlease/parse-angular-patch",
   "authors": [
-    "@spacenick @arush"
+    "@JeremyPlease"
   ],
   "main": "dist/parse-angular.js",
-  "description": "A patch for the Parse SDK to make it work natively and seamlessly with AngularJS",
+  "description": "A patch for the Parse SDK to automatically $apply() when running Parse commands",
   "keywords": [
     "parse",
     "angular",

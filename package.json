@@ -4,11 +4,12 @@
   "description": "Seamless Parse integration with AngularJS",
   "main": "src/parse-angular.js",
   "scripts": {
+    "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brandid/parse-angular-patch.git"
+    "url": "https://github.com/jeremyplease/parse-angular-patch.git"
   },
   "keywords": [
     "parse",
@@ -18,12 +19,12 @@
     "collection",
     "objects"
   ],
-  "author": "Nicolas Kermarc <nick@getbrandid.com>",
+  "author": "JeremyPlease",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brandid/parse-angular-patch/issues"
+    "url": "https://github.com/jeremyplease/parse-angular-patch/issues"
   },
-  "homepage": "https://github.com/brandid/parse-angular-patch",
+  "homepage": "https://github.com/jeremyplease/parse-angular-patch",
   "devDependencies": {
     "gulp": "~3.5.2",
     "gulp-uglify": "~0.2.1",
